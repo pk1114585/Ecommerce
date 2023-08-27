@@ -32,6 +32,8 @@ The project involves building a front end for an eCommerce website. The main fea
   - Show alerts/notifications after adding a product.
 
 - **Product Detail Page:**
+    ![image](https://github.com/pk1114585/Ecommerce/assets/45114125/e8dfa702-b155-472c-b881-0bad020230cb)
+ 
   - Display all the details of a product.
   - Provide an option to add the product to the cart.
 
