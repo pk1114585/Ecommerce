@@ -2,6 +2,7 @@
 # Ecommerce Frontend Project
 
 Welcome to the E-commerce Frontend Project! This project is aimed at creating a frontend for an eCommerce website with various features, using React, Redux, and other related technologies.
+![image](https://github.com/pk1114585/Ecommerce/assets/45114125/f39fdd19-c041-4c25-93b8-5ba48c5671aa)
 
 ## Project Description
 
